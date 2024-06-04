@@ -8,8 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: cv.qmd
-        text: CV
+      - href: cv.qmd # create new page
+        text: CV # include title so no .html
       - href: climbing.qmd
         text: climbing
       - href: projects.qmd
@@ -17,9 +17,11 @@ website:
 
 format:
   html:
-    theme: minty
-    css: styles.css
-    toc: true
+    theme: 
+    - styles.scss # seperate page to edit themes
+    - minty # keeping base bootswatch theme
+    mainfont: Mulish
+    toc: true 
     page-layout: full
 
 editor: visual

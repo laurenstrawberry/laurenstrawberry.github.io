@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+// background colors
+$beige: #FDFAEF;
+$red: #D24545;
+$body-bg: $beige; // background color
+
+// import fonts
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+$jos: "Josefin Sans", sans-serif;
+
+h1,h2 {
+  letter-spacing: 2px;
+  font-family: $jos;
+}
+.title {
+  color: $red ;
+}

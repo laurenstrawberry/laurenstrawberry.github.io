@@ -2,8 +2,20 @@
 Title: Projects
 ---
 
-## Environmental 
+Some projects I have completed in my academics and outside
+
+## Academic 
 
 MATLAB project on precipitation as it related to water supply and demand in LA County, displaying how rainfall can meet domestic needs of all residents
 
+[Link to run code](https://drive.google.com/file/d/1XdPg6uqBhpF8FB2zYND7sDzQVzBSasb5/view?usp=drive_link)
+
+|                                                                                             |                                                                                          |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| ![](images/Amount_of_Precipitation_versus_Water_Usage-01.png){fig-align="left" width="306"} | ![](images/Monthly_Precipitation_Throughout_Years-01.png){fig-align="right" width="307"} |
+
 ## Climbing 
+
+2020 short film about me and my friends journeys' in climbing, centered around our shared experience in Chullia, Spain
+
+[![click photo to view video](images/Screen Shot 2020-04-30 at 10.52.45 AM.png){fig-align="center" width="520"}](https://www.youtube.com/watch?v=-_EY8orXSGU)
