@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Lauren Berry",
-    "section": "",
-    "text": "Thanks for visiting my website! My name is Lauren Berry and I’m a recent graduate from Environmental Studies at UCSB. Currently, I’m living on the road climbing and trying to figure out how to combine my passions of climbing and environmental stewardship."
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Lauren Berry",
@@ -49,11 +35,11 @@
     "text": "Interests\nRock Climbing: outdoors and competitively (2011-present), Skiing, Backpacking, Surfing, Photography, Jewelry Making\nBuilding systems which focus on improving human and environmental health in tandem by creating a healthy earth which focuses on supplying plentiful high nutritional food and clean water"
   },
   {
-    "objectID": "index.html#edication",
-    "href": "index.html#edication",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Lauren Berry",
-    "section": "Edication",
-    "text": "Edication"
+    "section": "",
+    "text": "Thanks for visiting my website! My name is Lauren Berry and I’m a recent graduate from Environmental Studies at UCSB. Currently, I’m living on the road climbing and trying to figure out how to combine my passions of climbing and environmental stewardship."
   },
   {
     "objectID": "index.html#hi-there",
@@ -61,5 +47,33 @@
     "title": "Lauren Berry",
     "section": "",
     "text": "Thanks for visiting my website! My name is Lauren Berry and I’m a recent graduate from Environmental Studies at UCSB. Currently, I’m living on the road climbing and trying to figure out how to combine my passions of climbing and environmental stewardship."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Lauren Berry",
+    "section": "",
+    "text": "MATLAB project on precipitation as it related to water supply and demand in LA County, displaying how rainfall can meet domestic needs of all residents"
+  },
+  {
+    "objectID": "projects.html#environmental",
+    "href": "projects.html#environmental",
+    "title": "Lauren Berry",
+    "section": "",
+    "text": "MATLAB project on precipitation as it related to water supply and demand in LA County, displaying how rainfall can meet domestic needs of all residents"
+  },
+  {
+    "objectID": "projects.html#climbing",
+    "href": "projects.html#climbing",
+    "title": "Lauren Berry",
+    "section": "Climbing",
+    "text": "Climbing"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

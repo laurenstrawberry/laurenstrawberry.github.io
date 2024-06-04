@@ -1,3 +1,9 @@
 ---
 Title: Projects
 ---
+
+## Environmental 
+
+MATLAB project on precipitation as it related to water supply and demand in LA County, displaying how rainfall can meet domestic needs of all residents
+
+## Climbing 
