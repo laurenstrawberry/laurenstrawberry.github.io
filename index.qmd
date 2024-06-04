@@ -1,7 +1,20 @@
 ---
-title: "laurenstrawberry.github.io"
+title: "Lauren Berry"
+image: headshot.png
+2toc: false
+about:
+  template: jolla
+  image-shape: round
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/lauren-berry-es
+    - text: GitHub
+      href: https://github.com/laurenstrawberry
+    - text: Email
+      href: laurenaberry02@gmail.com
+    - text: Instagram
+      href: https://www.instagram.com/laurenn.berry/
 ---
 
-```{r install packages}
-library(usethis)
+```{}
 ```
