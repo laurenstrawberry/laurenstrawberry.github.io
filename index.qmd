@@ -3,7 +3,7 @@ title: "Lauren Berry"
 image: headshot.png
 2toc: false
 about:
-  template: jolla
+  template: trestles
   image-shape: round
   links:
     - text: LinkedIn
@@ -16,5 +16,6 @@ about:
       href: https://www.instagram.com/laurenn.berry/
 ---
 
-```{}
-```
+## Hi there!
+
+Thanks for visiting my website! My name is Lauren Berry and I'm a recent graduate from Environmental Studies at UCSB. Currently, I'm living on the road climbing and trying to figure out how to combine my passions of climbing and environmental stewardship.
