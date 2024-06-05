@@ -2,7 +2,7 @@
 Title: Projects
 ---
 
-Some projects I have completed in my academics and outside
+Here's some of my favorite projects I have completed through my academics and climbing!
 
 ## Academic
 
@@ -13,6 +13,14 @@ MATLAB project on precipitation as it related to water supply and demand in LA C
 |                                                                                             |                                                                                          |
 |------------------------------------|-----------------------------------|
 | ![](images/Amount_of_Precipitation_versus_Water_Usage-01.png){fig-align="left" width="306"} | ![](images/Monthly_Precipitation_Throughout_Years-01.png){fig-align="right" width="307"} |
+
+Impact of Water Diversion on Soils in the Owens River Gorge
+
+[Link to paper](https://docs.google.com/document/d/1ms5bflo5tX5teANghNrh4GaNLMEgR6U6d7mka1gT-eE/edit?usp=sharing)
+
+Essay I wrote for a class about sustainable communities outlining solutions to water, food, and energy issues in Isla Vista, CA
+
+[Link to essay](https://docs.google.com/document/d/1L1loqwmg4qLVClEa1t4ciXasIiyrPRCTl89xfHwi0RY/edit?usp=sharing)
 
 ## Climbing
 
