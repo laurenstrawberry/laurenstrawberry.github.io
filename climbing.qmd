@@ -8,9 +8,9 @@ Title: Climbing
 
 8/2023: Sky Pilot 5.13d
 
-+-----------------------------------------------------------+---------------------------------------------+
-| ![](images/DSC03695-Edit.jpg){width="391"}                | ![](images/DSC03668-Edit.JPEG){width="391"} |
-+-----------------------------------------------------------+---------------------------------------------+
+|                                            |                                             |
+|----------------------------------------|-------------------------------|
+| ![](images/DSC03695-Edit.jpg){width="391"} | ![](images/DSC03668-Edit.JPEG){width="391"} |
 
 taken by @connorbrownphotography
 
@@ -18,7 +18,7 @@ taken by @connorbrownphotography
 
 1/2024: Relic V9
 
-![photo by Tesla Mitchell](images/IMG_2729-01.JPG){width="310"}
+![photo by Tesla Mitchell](images/IMG_2729-01.JPG){fig-align="left" width="310"}
 
 3/2023: Yogi Variation V9
 
@@ -28,8 +28,8 @@ taken by @connorbrownphotography
 
 2018 14th in Open Women's Pan American Championships
 
-![photo by Tom Condie](images/IMG_E714C034B312-1.jpeg){width="550"}
+![photo by Tom Condie](images/IMG_E714C034B312-1.jpeg){fig-align="left" width="550"}
 
 2015 Youth C Boulder National Champion
 
-![](images/IMG_9F8EF8E55B45-1.jpeg){width="369"}
+![](images/IMG_9F8EF8E55B45-1.jpeg){fig-align="left" width="369"}

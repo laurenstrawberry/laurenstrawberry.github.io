@@ -11,7 +11,7 @@ MATLAB project on precipitation as it related to water supply and demand in LA C
 [Link to run code](https://drive.google.com/file/d/1XdPg6uqBhpF8FB2zYND7sDzQVzBSasb5/view?usp=drive_link)
 
 |                                                                                             |                                                                                          |
-|------------------------------------|-----------------------------------|
+|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | ![](images/Amount_of_Precipitation_versus_Water_Usage-01.png){fig-align="left" width="306"} | ![](images/Monthly_Precipitation_Throughout_Years-01.png){fig-align="right" width="307"} |
 
 Impact of Water Diversion on Soils in the Owens River Gorge
