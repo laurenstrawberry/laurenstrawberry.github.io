@@ -5,7 +5,7 @@ Title: "CV"
 ## **Education**
 
 |                                                                   |                              |
-|----------------------------------|-------------------------------------:|
+|-------------------------------------------------------------------|-----------------------------:|
 | University of California, Santa Barbara (UCSB), Santa Barbara, CA | *September 2020 - June 2024* |
 | **Bachelor of Science (B.S.) in Environmental Studies**           |                              |
 
@@ -15,19 +15,19 @@ Title: "CV"
 
 ## **Experience**
 
-|                                                         |                              |
-|--------------------------------------|---------------------------------:|
-| ***President,*** UCSB Climbing Team, Santa Barbara, CA  |        December 2022-Present |
-| ***Sport Club Coordinator***                            | December 2021- December 2022 |
+|                                                        |                              |
+|--------------------------------------------------------|-----------------------------:|
+| ***President,*** UCSB Climbing Team, Santa Barbara, CA |        December 2022-Present |
+| ***Sport Club Coordinator***                           | December 2021- December 2022 |
 
 -   Manage concurrent projects daily, and delegate tasks amongst a group of officers to ensure group goals are met by set deadlines
 
--    Coordinate trips and competitions for a team of 60 people, while organizing to meet school requirements
+-   Coordinate trips and competitions for a team of 60 people, while organizing to meet school requirements
 
 -   Learned to develop proactive systems that target common confusion before an event, such as educating team members about leave no trace ethics before trips and designing well-organized resources
 
 |                                                                               |                             |
-|---------------------------------|--------------------------------------:|
+|-------------------------------------------------------------------------------|----------------------------:|
 | ***Host***, Alcazar Tapas Bar, Santa Barbara, CA                              | September 2023-Febuary 2024 |
 
 -   Communicating with customers in a friendly and professional manner
@@ -35,7 +35,7 @@ Title: "CV"
 -   Guiding the flow of the restaurant to make sure servers are not overwhelmed, while taking initiative to lessen the load of team members
 
 |                                                                                                |                          |
-|-------------------------------|----------------------------------------:|
+|------------------------------------------------------------------------------------------------|-------------------------:|
 | ***Restoration Intern***, Cheadle Center for Biodiversity & Ecological Restoration, Goleta, CA | September -December 2022 |
 
 -   Evaluated environmental issues in a wetland restoration project
@@ -46,9 +46,9 @@ Title: "CV"
 |----------------------------------------------------------|-----------------------------:|
 | ***Routesetter,*** Santa Barbara Rock Gym, Santa Barbara | February 2023-September 2023 |
 
--    Collaborated with other routesetters to create routes for climbers of all levels and sizes
+-   Collaborated with other routesetters to create routes for climbers of all levels and sizes
 
--    Designed creative routes and created them using technical skills, finding creative solutions when gear wears out
+-   Designed creative routes and created them using technical skills, finding creative solutions when gear wears out
 
 |                                                                 |                            |
 |-----------------------------------------------------------------|---------------------------:|

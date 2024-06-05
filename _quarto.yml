@@ -14,6 +14,8 @@ website:
         text: climbing
       - href: projects.qmd
         text: projects
+      - href: photography.qmd
+        text: gallery
 
 format:
   html:
